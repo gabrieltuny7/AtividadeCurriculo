@@ -1,0 +1,24 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+  /*comentário - criar class (classe no css) */
+
+  .nome-da-classe {
+    background-color: aquamarine;
+    color: purple;
+    text-align: center;
+  }
+
+  #idxpto {
+    background-color: pink;
+    color: rgb(146, 244, 0);
+    text-align: right;
+  }
+
